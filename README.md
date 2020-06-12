@@ -3,9 +3,12 @@
 Plugin hecho por   =>   Kenny Poncio
 https://github.com/kenpoc4
 
+
 ----------   DESCRIPCIÓN   ----------
 
+
     Plugin Wordpress para establecer tamaños predeterminados en imagenes.
+    
 
 ----------   CAMBIOS QUE REALIZA   ----------
     *** Tamaños establecidos:
@@ -16,13 +19,17 @@ https://github.com/kenpoc4
     			mediano	=>	700X400
     			blog	=>	966X644
 
+
     *** ESTABLECEMOS TITULOS PARA SUPORTE SEO
+
 
     *** SOPORTE DE THUMBNAILS
 
 
 ----------   COMO USARLO   ----------
 
+
     1.- Instalar el repositorio como Plugin
+    2.- Al hacer el llamado de la imagen colocar el tamaño que se desea entre comillas simples ''.
     
     ***NOTA: COMPATIBLE UNICAMENTE PARA WORDPRESS.
