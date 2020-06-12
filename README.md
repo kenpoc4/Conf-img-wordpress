@@ -1,4 +1,4 @@
-# Estandares-iniciales
+# Conf-img-wordpress
 
 Plugin hecho por   =>   Kenny Poncio
 https://github.com/kenpoc4
