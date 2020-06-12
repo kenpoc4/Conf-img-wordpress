@@ -11,6 +11,8 @@ https://github.com/kenpoc4
     
 
 ----------   CAMBIOS QUE REALIZA   ----------
+
+
     *** Tamaños establecidos:
 			pequeño	=>	350X350
     			largo	=>	350X750
